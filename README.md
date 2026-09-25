@@ -276,10 +276,10 @@ void assert_failed(uint8_t *file, uint32_t line)
  
  ## Circuit board :
  ### WITHOUT INTERRUPT
- <img width="719" height="1600" alt="image" src="https://github.com/user-attachments/assets/0c98a32a-93b7-4adb-836a-b479223af058" />
+ <img width="719" height="800" alt="image" src="https://github.com/user-attachments/assets/0c98a32a-93b7-4adb-836a-b479223af058" />
 
 ### WITH INTERRUPT
-<img width="719" height="1600" alt="image" src="https://github.com/user-attachments/assets/74d0e8db-e25b-4764-8d44-c845623e9488" />
+<img width="719" height="800" alt="image" src="https://github.com/user-attachments/assets/74d0e8db-e25b-4764-8d44-c845623e9488" />
 
  
  
